@@ -13,12 +13,12 @@
 1. 书名，作者。附本页推荐理由定位
 2. 推荐理由
 ```
-- [ ] [《常识》托马斯·潘恩](https://github.com/jinyuyoulong/BookList/blob/master/常识-托马斯.潘恩.md)
+- [x] [《常识》托马斯·潘恩](https://github.com/jinyuyoulong/BookList/blob/master/常识-托马斯.潘恩.md)
 - [《计算机程序的构造和解释》SICP](https://github.com/jinyuyoulong/BookList/blob/master/计算机程序的构造和解释-SICP.md)
 - [x] [《程序员修炼之道》](https://github.com/jinyuyoulong/BookList/blob/master/程序员修炼之道.md)
 - [《人月神话》](https://github.com/jinyuyoulong/BookList/blob/master/人月神话.md)
 - [《罗伯特议事规则》亨利·罗伯特](https://github.com/jinyuyoulong/BookList/blob/master/罗伯特议事规则.md)
-- [《乌合之众》](https://github.com/jinyuyoulong/BookList/blob/master/乌合之众.md) 
+- [x] [《乌合之众》](https://github.com/jinyuyoulong/BookList/blob/master/乌合之众.md) 
 - [《艺用人体解剖》](https://github.com/jinyuyoulong/BookList/blob/master/艺用人体解剖.md) 
 - [《向大师学绘画》](https://github.com/jinyuyoulong/BookList/blob/master/向大师学绘画.md)
 - [《范子计然》](https://github.com/jinyuyoulong/BookList/blob/master/范子计然.md)
@@ -35,5 +35,12 @@
 - [《国富国穷》戴维·兰德斯](https://github.com/jinyuyoulong/BookList/blob/master/%E5%9B%BD%E5%AF%8C%E5%9B%BD%E7%A9%B7.md)
 - 《地缘看世界》预计2019年上半年出版 微信公众号：地缘看世界
 - [胡希恕的《伤寒论讲座》](https://github.com/jinyuyoulong/BookList/blob/master/胡希恕的《伤寒论讲座》.md)
-- 《伤寒杂病论》
+- [x]《伤寒杂病论》
+- [x]《手把手教你读财报》
+- [x]《彼得·林奇的成功投资》
+- [x]《积极型资产配置指南》
+- [x]《怎样解题》
+- [x]《怎样选择成长股》
+- [x]《墨菲定理》
+
 
